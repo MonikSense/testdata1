@@ -1,0 +1,60 @@
+Country,Age_Group,Cancer_Type,Risk_Factors,Incidence,Mortality
+Turkey,15-24,Lung,Obesity,44,457
+Canada,0-14,Prostate,Genetic,643,278
+China,15-24,Breast,Pollution,565,161
+India,15-24,Leukemia,Inactivity,509,117
+Nigeria,15-24,Prostate,Pollution,288,170
+Poland,55-64,Leukemia,Inactivity,994,7
+Japan,15-24,Skin,Radiation,989,433
+Vietnam,0-14,Breast,Genetic,966,276
+Sudan,25-54,Prostate,Alcohol,447,371
+Sri Lanka,25-54,Lung,Inactivity,987,41
+Mozambique,0-14,Wilms,Obesity,188,74
+Uganda,0-14,Neuroblastoma,Alcohol,294,459
+Morocco,0-14,Prostate,Pollution,895,265
+Brazil,25-54,Prostate,Alcohol,393,271
+South Korea,0-14,Wilms,Pollution,337,434
+Japan,55-64,Colorectal,Pollution,152,437
+Morocco,0-14,Neuroblastoma,Inactivity,939,190
+Sudan,0-14,Lymphoma,Inactivity,919,159
+Vietnam,25-54,Colorectal,Tobacco,363,148
+Sri Lanka,15-24,Colorectal,Inactivity,850,392
+Niger,25-54,Lung,Genetic,161,262
+Indonesia,55-64,Colorectal,Tobacco,381,115
+Morocco,55-64,Breast,Diet,15,219
+Madagascar,15-24,Colorectal,Inactivity,538,54
+Uganda,25-54,Prostate,Tobacco,906,245
+United States,55-64,Leukemia,Genetic,220,243
+Russia,25-54,Lymphoma,Genetic,886,152
+Ukraine,25-54,Lung,Pollution,436,246
+Indonesia,65+,Leukemia,Diet,11,122
+Mexico,65+,Skin,Inactivity,171,168
+Germany,25-54,Brain,Genetic,988,232
+United Kingdom,65+,Lymphoma,Inactivity,249,300
+Indonesia,65+,Prostate,Radiation,194,100
+Yemen,15-24,Colorectal,Genetic,469,199
+Spain,15-24,Brain,Genetic,171,175
+Spain,25-54,Skin,Obesity,339,381
+DR Congo,65+,Wilms,Alcohol,674,381
+Brazil,65+,Breast,Diet,797,7
+Thailand,0-14,Lung,Pollution,280,44
+Ethiopia,65+,Lung,Genetic,419,445
+Uzbekistan,15-24,Leukemia,Pollution,321,113
+Iraq,15-24,Lymphoma,Alcohol,198,260
+Ethiopia,0-14,Brain,Radiation,128,319
+Poland,15-24,Colorectal,Pollution,746,182
+Uzbekistan,15-24,Colorectal,Tobacco,182,148
+Mozambique,25-54,Wilms,Tobacco,55,241
+Sudan,55-64,Wilms,Genetic,506,414
+Thailand,55-64,Wilms,Radiation,942,479
+DR Congo,25-54,Brain,Diet,477,200
+Ethiopia,15-24,Colorectal,Inactivity,469,168
+India,25-54,Colorectal,Inactivity,750,371
+Egypt,55-64,Leukemia,Radiation,406,347
+Iran,15-24,Prostate,Alcohol,759,182
+United States,15-24,Neuroblastoma,Obesity,262,395
+Colombia,55-64,Prostate,Radiation,776,372
+China,15-24,Prostate,Obesity,765,57
+Uzbekistan,0-14,Breast,Inactivity,460,91
+Australia,55-64,Lung,Obesity,24,366
+Turkey,65+,Lymphoma,Genetic,755,194
