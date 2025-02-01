@@ -1,19 +1,19 @@
-AAChemically reduced graphene,Conc of AA (mg),GO (mg/mL),Synthesis temp,Synthesis duration (h),Id/Ig
-nanomaterial,25,0.5,65,1,1.085
-nanomaterial,50,0.5,65,1,1.12
-nanomaterial,100,0.5,65,1,1.09
-indo,5,0.4,65,11,1.295
-cuo/rgo,100,0.5,80,4,1.21
-nurul,100,0.4,90,2,0.069
-Reduction of graphene oxide via L-ascorbic acid,50,0.1,23,12,0.98
-Effect of Ascorbic acid Concentration on Electrical Conductivity of reduced Graphene Oxide,0,0.3,0,0,0.846
-Effect of Ascorbic acid Concentration on Electrical Conductivity of reduced Graphene Oxide,100,0.3,60,2,0.848
-Effect of Ascorbic acid Concentration on Electrical Conductivity of reduced Graphene Oxide,300,0.3,60,2,0.855
-Effect of Ascorbic acid Concentration on Electrical Conductivity of reduced Graphene Oxide,500,0.3,60,2,0.854
-Facile fabrication of ascorbic acid reduced graphene oxide-modified electrodes toward electroanalytical determination of sulfamethoxazole in aqueous environments,0.1,1,80,24,1.51
-Simultaneous reduction and nitrogen functionalization of graphene oxide using lemon for metal-free oxygen reduction reaction,50,5,100,8,1.23
-Chemical and structural properties of reduced graphene oxide?dependence on the reducing agent,100,0.6,25,0.5,1.1
-pradeep,100,0.4,65,1,1.1
-Synergistic effect of UV and L-ascorbic acid on the reduction of graphene oxide: Reduction kinetics and quantum chemical simulations,5,0.1,25,6,1.06
-nvironment-Friendly Method To Produce Graphene That Employs Vitamin C and Amino Acid,5,0.1,80,24,1.588
-Adsorption of phenanthrene and 1-naphthol to graphene oxide and L-ascorbic-acid-reduced graphene oxide: effects of pH and surfactants,1000,6.25,25,72,0.87
+Conc of AA (mg),GO (mg/mL),Synthesis temp,Synthesis duration (h),Id/Ig
+25,0.5,65,1,1.085
+50,0.5,65,1,1.12
+100,0.5,65,1,1.09
+5,0.4,65,11,1.295
+100,0.5,80,4,1.21
+100,0.4,90,2,0.069
+50,0.1,23,12,0.98
+0,0.3,0,0,0.846
+100,0.3,60,2,0.848
+300,0.3,60,2,0.855
+500,0.3,60,2,0.854
+100,1,80,24,1.51
+50,5,100,8,1.23
+100,0.6,25,0.5,1.1
+100,0.4,65,1,1.1
+5,0.1,25,6,1.06
+5,0.1,80,24,1.588
+1000,6.25,25,72,0.87
