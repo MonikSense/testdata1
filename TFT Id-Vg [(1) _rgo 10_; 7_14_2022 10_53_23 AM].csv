@@ -1,4 +1,4 @@
- Vgate	 Vdrain	 Idrain	 IdrainPerWg	 gm	 gmPerWg
+Vgate,	 Vdrain,	 Idrain,	 IdrainPerWg,	 gm,	 gmPerWg,
 0	2	1.16E-05	1.16E-06	2.56E-06	2.56E-07
 0.1	2	1.19E-05	1.19E-06	2.31E-06	2.31E-07
 0.2	2	1.21E-05	1.21E-06	1.71E-06	1.71E-07
