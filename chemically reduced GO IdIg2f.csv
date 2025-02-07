@@ -1,4 +1,4 @@
-Conc of AA (mg),GO (mg/mL),Synthesis temp(degree C),Synthesis duration (h),Id/Ig
+AA Conc,GO,Synthesis temp,Synthesis duration,Id/Ig
 25,0.5,65,1,1.085
 50,0.5,65,1,1.12
 100,0.5,65,1,1.09
